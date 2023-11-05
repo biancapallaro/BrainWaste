@@ -16,4 +16,4 @@ The analysis explores the following datasets from Eurostat, the statistical offi
 ## Analysis
 I used Pandas built-in functions and the Altair-viz library to examine the datasets. I limited my analysis to age group 20–64 years following the steps of the EU Action Plan on Integration and Inclusion 2021–2027, and used the most updated data available. Most of the analysis focuses solely on EU27 countries (from 2020) except the reporting country, Reporting country, Non-EU27 countries (from 2020) nor reporting country, sex, and educational attainment. 
 
-Please find the rendered version of the Jupyter notebook [here] (https://nbviewer.org/github/biancapallaro/BrainWaste/blob/main/Brain%20Waste%20in%20Europe.ipynb) and the raw data [here] (https://tinyurl.com/5n8nbpjb)
+Please find the rendered version of the Jupyter notebook [here](https://nbviewer.org/github/biancapallaro/BrainWaste/blob/main/Brain%20Waste%20in%20Europe.ipynb) and the raw data [here](https://tinyurl.com/5n8nbpjb)
